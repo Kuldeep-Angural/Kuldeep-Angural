@@ -1,16 +1,17 @@
-## Hi there 👋
+![MasterHead](https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif)
+<h1 align="center">Hi 👋, I'm Kuldeep Angural</h1>
+<h3 align="center">Tech enthusiast |Software Developer | Full Stack Developer </h3>
 
-<!--
-**Kuldeep-Angural/Kuldeep-Angural** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **MERN/MEAN Stack Projects**
+
+
+
+- 💬 Ask me about **java script > Type script > java > Python > Springboot > node js > mondodb > mysql > electron js > Strapi > Aws > Machine Learning > Data Asience > mui**
+
+- 📫 How to reach me **kuldeep.navv@gmail.com**
+
+- 📄 Know about me (https://kuldeepinfo.vercel.app/)
+
+
