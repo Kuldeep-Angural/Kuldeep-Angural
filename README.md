@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://kuldeepinfo.vercel.app/" target="_blank">
+  <a href="https://kuldeep.compilefussion.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" />
   </a>
   <a href="mailto:kuldeep.navv@gmail.com">
